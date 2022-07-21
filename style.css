@@ -268,6 +268,10 @@ footer hr {
         justify-content: center;
     }
 
+    .nav-options {
+        border: 1px solid lightgray;
+    }
+
     .blogs {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
