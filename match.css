@@ -144,25 +144,15 @@ aside {
 }
 
 .blog-img {
+    display: flex;
     width: max-content;
 }
 
-.blog-btn {
-    margin-top: 20px;
-}
-
-.blog-btn a {
-    text-decoration: none;
-    border: 1px solid gray;
-    border-radius: 10px;
-    padding: 10px 20px;
-}
 
 .blog-info {
-    width: 50%;
-    display: flex;
-    justify-content: space-between;
     color: gray;
+    justify-content: center;
+    align-items: center;
 }
 
 /* view all button */
